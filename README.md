@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @OmerAvcu
-- 👀 I’m interested in Software and Game Developement
+- 👀 I’m interested in Software Developement
 - 🌱 I’m currently learning ReactNative
 - 📫 How to reach me omeravcu00@gmail.com
